@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-guard-suite 的组合层
+- insert:
+    - id: guard-suite
+      name: '@deepwhale-cn/dsh-guard-suite'

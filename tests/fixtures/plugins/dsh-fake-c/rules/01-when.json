@@ -1,0 +1,8 @@
+{
+  "id": "FAKE-WHEN-DEMO",
+  "title": "只在本项目出现某个特征时才跑（演示 notApplicable 可见性）",
+  "severity": "medium",
+  "source": "演示用判据（非真实依据）—— 用于验证「不适用」会不会被当成「查过了」",
+  "advice": "这条规则故意永远不会命中，用来证明报告会把「不适用」单独列出来，而不是混进「0 命中」。",
+  "check": { "type": "file-pattern", "pattern": "ZZZ_NOT_PRESENT_ZZZ", "when": "ZZZ_NOT_PRESENT_ZZZ" }
+}

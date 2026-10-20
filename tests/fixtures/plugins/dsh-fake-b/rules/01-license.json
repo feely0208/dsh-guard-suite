@@ -1,0 +1,8 @@
+{
+  "id": "FAKE-NO-LICENSE",
+  "title": "项目里找不到任何 LICENSE 文件",
+  "severity": "low",
+  "source": "演示用判据（非真实依据）—— 用于验证 absence 类规则在聚合报告里的表现",
+  "advice": "补一个 LICENSE 文件，写清许可证类型与版权年份，避免下游用户无法判断能否使用。",
+  "check": { "type": "files-lack", "pattern": "MIT|Apache|GPL", "paths": ["LICENSE", "LICENSE.md", "COPYING"], "evidence": "项目里没有任何 LICENSE 文件" }
+}
