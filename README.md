@@ -115,7 +115,7 @@ dsh-guard-suite --fail-on medium                   # CI 卡口（默认 high）
 
 更多：[deepwhale.org.cn/guard.html](https://www.deepwhale.org.cn/guard.html)
 
-## 深鲸网安守护系列（共 38 个）
+## 深鲸网安守护系列（共 39 个）
 
 > 一个插件做一件事。**安全问题是链式的** —— 配套用才完整。
 
@@ -131,7 +131,6 @@ dsh-guard-suite --fail-on medium                   # CI 卡口（默认 high）
 
 **行业专项**（4）｜ [医疗行业专项](https://github.com/feely0208/dsh-industry-medical) · [教育行业专项](https://github.com/feely0208/dsh-industry-education) · [金融行业专项](https://github.com/feely0208/dsh-industry-finance) · [地方数据条例](https://github.com/feely0208/dsh-local-regulation)
 
-**编排与交付**（3）｜ [一键体检](https://github.com/feely0208/dsh-guard-suite) · [改前改后复核](https://github.com/feely0208/dsh-fix-verify) · [合规可交付文档](https://github.com/feely0208/dsh-compliance-doc)
+**编排与交付**（4）｜ [一键体检](https://github.com/feely0208/dsh-guard-suite) · [改前改后复核](https://github.com/feely0208/dsh-fix-verify) · [合规可交付文档](https://github.com/feely0208/dsh-compliance-doc) · [整改建议](https://github.com/feely0208/dsh-remediation)
 
 都在 DSH 插件市场（dsh-plugin.org）、npm 和 deepwhale.org.cn/guard.html 上。
-

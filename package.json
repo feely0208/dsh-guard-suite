@@ -31,7 +31,7 @@
     "./package.json": "./package.json"
   },
   "bin": {
-    "dsh-guard-suite": "./bin/cli.mjs"
+    "dsh-guard-suite": "bin/cli.mjs"
   },
   "engines": {
     "dsh": ">=0.1.0-rc.6 <0.3.0",
