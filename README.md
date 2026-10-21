@@ -1,5 +1,7 @@
 # @deepwhale-cn/dsh-guard-suite
 
+[![dshfind 收录](https://dshfind.com/api/badge/feely0208/dsh-guard-suite?lang=zh)](https://dshfind.com/zh/plugins/feely0208/dsh-guard-suite)
+
 [![Listed on dsh-plugin.org](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/zh/plugins/feely0208/dsh-guard-suite)
 
 **装了一堆守卫插件，却要一个个跑？一条命令跑完全部，出一份按模块分组的体检报告。**
